@@ -1,0 +1,8 @@
+This is the list of your cars:
+
+1| Citroen Berlingo with 20000 kilometers on the clock. Last serviced: 1.1.2017
+2| Citroen C4 with 66000 kilometers on the clock. Last serviced: 1.1.2017
+3| BMW 5 with 150000 kilometers on the clock. Last serviced: 1.1.2017
+4| Renault Captur with 44000 kilometers on the clock. Last serviced: 12. 6. 2016
+
+List created with Vehicle Manager (v1.0)
